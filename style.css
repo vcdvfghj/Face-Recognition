@@ -1,0 +1,22 @@
+#title
+{
+  width: 80%;
+  height: 100px;
+  font-size: xx-large;
+  color: aliceblue;
+  background-color: black;
+}
+#webcam_label{
+    font-size:x-large;
+
+}
+#camera,#captured_image{
+    border-color: aliceblue;
+    border:2px solid;
+    width: 350px;
+    height: 350px;
+}
+body{
+    color: aliceblue;
+    background-color: black;
+}
